@@ -36,22 +36,20 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> &nbsp;&nbsp;
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit6997&show_icons=true&locale=en&layout=compact" alt="biswajit6997" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit6997&" alt="biswajit6997" /></p>
 <table>
       <thead>
             <tr>
                   <th>
-                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical"></p>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Biswajit6997&show_icons=true&theme=radical"></p>
                   </th>
                   <th>
-                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK"> </p>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajit6997"> </p>
                   </th>
             </tr>
       </thead>
 </table>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit6997&langs_count=10"> </p>
 
 
 <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
